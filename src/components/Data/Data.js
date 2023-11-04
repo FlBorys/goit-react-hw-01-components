@@ -1,4 +1,4 @@
-import { DataDiv, DataTitle, Data, DataList, DataText } from "./Data.styled";
+import { DataDiv, DataTitle, DataList, DataText } from "./Data.styled";
 export const Statistics = ({ title, stats }) => {
     return (
 <DataDiv>

@@ -6,7 +6,6 @@ import user from "../components/user.json";
 import data from "../components/data.json"
 import friends from "../components/friends.json";
 import transactions from "../components/transactions.json";
-import styled from "styled-components";
 
 
 
