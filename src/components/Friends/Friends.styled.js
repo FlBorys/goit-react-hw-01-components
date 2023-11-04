@@ -28,7 +28,9 @@ background-color: ${props => {
         case 'online':
             return 'green';
         case 'offline':
-            return 'red'
+            return 'red';
+        case 'default':
+            return 'grey'
     }
 }}
 `
