@@ -29,7 +29,7 @@ background-color: ${props => {
             return 'green';
         case 'offline':
             return 'red';
-        case 'default':
+        default:
             return 'grey'
     }
 }}
